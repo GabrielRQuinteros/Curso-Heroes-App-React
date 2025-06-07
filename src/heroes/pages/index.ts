@@ -1,0 +1,5 @@
+export * from './DCPage/DCPage'
+export * from './HeroPage/HeroPage'
+export * from './MarvelPage/MarvelPage'
+export * from './HeroesPage/HeroesPage'
+export * from './Layout/HeroesLayout'
